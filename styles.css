@@ -1,2 +1,11 @@
+#actor, #quote {
+	margin : 20px 0px;
+	padding: 20px;
+	background-color: #e7e7e7;
+	color: blue ;
+}
 
-/* Your CSS Code here. */
+footer {
+	background-color: black ;
+	color: white;
+}
